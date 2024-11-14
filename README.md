@@ -1,7 +1,7 @@
-# 🏥 기획서
-## 토닥토닥 : 실시간 소아과 진료 예약 및 비대면 진료 서비스
+# 🏥 토닥토닥 : 실시간 소아과 진료 예약 및 비대면 진료 서비스
+## 🥇 한화시스템 BEYOND SW CAMP 7기 최종프로젝트 1위 수상
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6e4d7206-54bf-4e23-bfbe-d9cc78e7c1d3" alt="logo" width="450">
+  <img src="https://github.com/user-attachments/assets/1b5d868d-18e1-409a-9982-6cd884468646" >
 </div>
 
 ## 팀원
@@ -27,24 +27,31 @@
   <th> BE,FE </th>
 </table>
 
+## 발표자료
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6e4d7206-54bf-4e23-bfbe-d9cc78e7c1d3" alt="logo" width="450">
 
-### 1. **문제 정의**
+  [📢 토닥토닥 발표자료 링크](https://www.canva.com/design/DAGQctfurOA/km0Va6bqgOX2Gg60xckVyg/view?utm_content=DAGQctfurOA&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+</div>
 
-### 1.1 저출산과 소아청소년과 폐지의 악순환
+
+## 1. **문제 정의**
+
+### 저출산과 소아청소년과 폐지의 악순환
 
 저출산과 고령화는 우리 사회의 심각한 문제로, 출생률 감소뿐만 아니라 아동 관련 서비스와 인프라의 축소로 이어지고 있습니다. 특히 2023년 3월 29일, 대한소아청소년과 의사회가 소아청소년과 폐지를 선언함에 따라, 소아과 진료를 필요로 하는 부모들이 겪는 어려움이 심화되었습니다.
 
-### 1.2 소아과 진료 ‘오픈런’ 현상으로 인한 부담 가중화
+### 소아과 진료 ‘오픈런’ 현상으로 인한 부담 가중화
 
 최근 소아과 병원의 수가 급격히 줄어들면서, 소아과 진료를 받기가 점점 더 어려워지고 있습니다. 부모들은 생계를 유지하며 아침 일찍 병원 앞에 줄을 서는 '오픈런' 현상을 겪고 있으며, 이로 인해 많은 소아과 병원은 오전에만 진료를 집중적으로 처리하고 있습니다. 이는 의료진에게 짧은 시간 안에 많은 환자를 진료해야 하는 압박을 주며, 진료의 질 저하와 부모들의 부담을 가중시키고 있습니다. 또한 응급 상황에서도 적절한 의료 서비스를 받기 어려운 경우가 발생하고 있습니다.
 
-### 2. **해결 방안: 실시간 진료 예약 및 비대면 진료 시스템 구축**
+## 2. **해결 방안: 실시간 진료 예약 및 비대면 진료 시스템 구축**
 
-### 2.1 시스템 개요
+### 시스템 개요
 
 실시간 진료 예약 시스템은 부모들이 소아과 진료 예약 및 대기 상황을 실시간으로 확인할 수 있도록 하여 불필요한 병원 방문을 줄이고, 진료 예약 수를 조절할 수 있게 합니다. 비대면 진료 시스템은 야간 시간이나 주말, 병원 방문이 어려운 상황에서 응급 상황에 대응하고 진료의 편의성을 증가시킬 수 있습니다.
 
-### 2.2 주요 기능
+### 주요 기능
 
 - **실시간 예약 확인**: 모바일 애플리케이션 및 웹사이트를 통해 부모가 실시간으로 예약 상황을 확인하고, 대기 인원 및 예상 대기 시간을 파악할 수 있습니다.
 - **비대면 진료**: 부모는 등록된 자녀의 진료를 비대면으로 진행할 수 있으며, 이를 위한 결제 및 상담을 온라인에서 처리할 수 있습니다.
@@ -53,18 +60,15 @@
 - **통계 및 분석**: 예약 데이터와 대기 시간을 분석하여 병원의 진료 효율성을 높이는 데 기여합니다.
 - 채팅 기능: 클라이언트(병원 직원, 부모 등)와 관리자가 실시간으로 소통할 수 있는 채팅 기능을 통합하여 문제 해결과 지원을 효율적으로 제공할 수 있도록 설계했습니다
 
-### 2.3 기대 효과
+### 기대 효과
 
 - **부모의 부담 경감**: 실시간 예약 시스템과 비대면 진료를 통해 부모들은 병원 방문 전 예약 상황을 파악하고, 불필요한 대기 시간을 줄일 수 있습니다.
 - **진료의 질 향상**: 의료진은 예약된 환자 수를 기준으로 진료를 계획할 수 있어, 진료의 질을 높이고 과중한 업무 부담을 줄일 수 있습니다.
 - **응급 상황 대응 개선**: 비대면 진료 시스템을 통해 응급 상황에서도 적절한 대응이 가능해져 부모들의 불안감을 줄일 수 있습니다.
 - **사회적 문제 해결 기여**: 아동 보건과 복지 수준을 개선하고, 사회적 문제로 확대되는 현상을 해결하는 데 기여할 수 있습니다.
 
-### 3. **결론**
-실시간 진료 예약 및 비대면 진료 시스템의 구축은 저출산과 소아청소년과 폐지 문제로 인한 소아과 진료의 어려움을 해결하는 데 효과적인 방법입니다. 이 시스템을 통해 부모와 의료
 
 ## 🥕요구사항정의서🥕
-[토닥토닥 요구사항정의](https://github.com/user-attachments/files/16960875/-.1.pdf)<br>
 🐶
 [토닥토닥 요구사항정의 링크](https://docs.google.com/spreadsheets/d/1cADwkU7hRr3ORXeoPF6agGtAuPji-jDmKSRgDJrVxoQ/edit?usp=sharing)
 
@@ -78,22 +82,23 @@
 [이슈관리테이블](https://www.notion.so/1519ac23d39542d0a648795a5c53172b?v=7cc0480300c34da38907a02f9bcb67e1&pvs=4)
 
 ## ERD
-### 전체 ERD
-<img width="1115" alt="image" src="https://github.com/user-attachments/assets/e5ed1919-ef04-4536-ae35-34a265becc0a">
+### 전체 ERD (MSA 아키텍처)
+<img width="1152" alt="image" src="https://github.com/user-attachments/assets/f388118d-3462-4ab9-b568-b79753410e4e">
 
 <details>
   <summary>Member-Service</summary>
-  <img width="1026" alt="image" src="https://github.com/user-attachments/assets/018d20a4-0364-4771-a4ac-ac49c4aec05e">
+  <img width="740" alt="image" src="https://github.com/user-attachments/assets/8dd04b61-3329-41cf-9c4a-dc0bbf84a149">
 </details>
 
 <details>
   <summary>Reservation-Service</summary>
-  <img width="1031" alt="image" src="https://github.com/user-attachments/assets/8e8f4c82-0489-4d4a-b05c-7c26a4a8fcba">
+  <img width="1042" alt="image" src="https://github.com/user-attachments/assets/9972b791-bb1b-4214-bc8e-da9f4c9f6fdc">
 </details>
 
 <details>
   <summary>Community-Service</summary>
-  <img width="1119" alt="image" src="https://github.com/user-attachments/assets/6f12faf1-974f-4170-9586-dbe2433bfb7b">
+  <img width="517" alt="image" src="https://github.com/user-attachments/assets/acc36b91-0a3c-48c5-8cdf-851efd0ecdc5">
+
 </details>
 
 ## API 명세서
@@ -113,35 +118,49 @@
 | **비대면 진료**         | WebRTC를 사용하여 병원에 직접 가지 않고도 비대면으로 진료를 받을 수 있습니다.                 |
 |**사용자 위치기반 병원목록 조회**|geolocation을 사용하여 사용자의 위치기반 주변 병원들의 목록을 조회할 수 있습니다.|
 |**자녀공유**|사용자간에 자녀를 공유하여 예약관리 및 일정 관리를 할 수 있습니다.|
-| **공유캘린더** | 자녀의 예약 일정을 공유하며, 개인 일정까지 한 눈에 편리하게 관리 할 수 있습니다.                 |
+| **공유캘린더** | fullCalendar를 이용해 자녀의 예약 일정을 공유하며, 개인 일정까지 한눈에 편리하게 관리할 수 있습니다.                 |
 | **병원 관리** | 복잡했던 병원 등록 및 병원 일정관리, 의료진 관리의 어려움을 줄이고  편의성을 높였습니다.             |
 | **실시간 CS문의** | kafka를 사용하여 메세지를 저장하고 웹소켓을 통해 실시간으로 소통할 수 있습니다. |
 | **fcm알림**  | 예약 확인 및 대기 상황 변경 안내, 자녀 공유, 결제 알림 등 상황별 사용자에게 적절한 알림을 제공합니다.    |
-| **포트원과 카카오페이 결제** | 카카오 페이를 통해 간편하게 결제하고 포트원 결제를 통해 안전하게 결제하여 간편하고 다양한 결제 수단을 제공합니다. |
+| **단건 결제, 정기 결제** | 포트원에서 제공하는 KG이니시스를 통해 진료비를 다양한 결제수단으로 결제할 수 있고 카카오페이 정기구독을 이용해 간편하게 병원 멤버십을 이용할 수 있습니다.  |
 |**데이터시각화**|chart.js를 이용하여 회원 관리를 위한 회원 비율 조회 및 신규 회원 유입 추이를 간편하게 조회할 수 있습니다.|
+|**Prometheus, Grafana**| Prometheus를 통해 각 파드와 노드별 CPU 및 메모리 사용량을 간편하게 모니터링할 수 있으며, Grafana로 시각화하여 한눈에 확인할 수 있습니다.|
 <br>
 
 ### 주요 기능 시연영상
 
 <details>
-  <summary> WEB RTC를 사용한 비대면진료</summary>
+  <summary> Web RTC :  비대면진료</summary>
   <img src="https://github.com/user-attachments/assets/0c1eda29-38c1-4c35-a20f-fd46269466a4">
 </details>
 <details>
-  <summary> 웹소켓과 카프카로 구현한 실시간 cs 문의</summary>
+  <summary> WebSocket, STOMP, Kafka : CS채팅 </summary>
+  <h3>일반회원 채팅</h3>
   <img src="https://github.com/user-attachments/assets/01dffb84-9210-4482-9aff-5e013df7086f">
+  <h3>서비스운영팀 채팅</h3>
+  <img src="https://github.com/user-attachments/assets/d560a233-8fac-4ecf-b194-7e330b675337">
 </details>
 <details>
-  <summary> fullCalendar를 사용한 자녀 공유 캘린더 </summary>
-  <img src="https://github.com/user-attachments/assets/b3efc9ce-ec1e-4e2f-9043-d33e1cbc327a">
+  <summary> FullCalendar : 자녀 공유 캘린더 </summary>
+  <img src="https://github.com/user-attachments/assets/8b6dc540-da7f-4c41-9a43-2d708c4486f0">
 </details>
 <details>
-  <summary> realtimeDB를 사용한 실시간 대기인원 확인</summary>
-  <img src="https://github.com/user-attachments/assets/93109ee0-859a-40be-9792-27e515520a6f">
+  <summary> Geolocation, KakaoMap : 사용자위치기반 행정동기준 병원리스트 조회</summary>
+  <img src="https://github.com/user-attachments/assets/ae096b16-225c-4db5-8373-430a9b0e14a3">
 </details>
 <details>
-  <summary> FCM을 사용한 웹 푸시 알림</summary>
-  <img src="">
+  <summary> Firebase RealTimeDB : 실시간 대기인원 확인</summary>
+  <img src="https://github.com/user-attachments/assets/aafb85d8-d523-4537-8518-b725869c5e8e">
+</details>
+<details>
+  <summary> FCM :웹 푸시 알림</summary>
+	<img width="370" alt="스크린샷 2024-11-05 오전 9 18 02" src="https://github.com/user-attachments/assets/233f00b9-1d8b-43c6-94d6-e4f8862e1e53">
+	<img width="370" alt="스크린샷 2024-11-04 오후 6 41 53" src="https://github.com/user-attachments/assets/17336983-2df4-4f2e-987c-be9c48a52bcd">
+
+</details>
+<details>
+  <summary> Prometheus, Grafana : 모니터링 서비스</summary>
+  <img src="https://github.com/user-attachments/assets/12e1504f-eb22-4de5-9892-4935e392a065"> 
 </details>
 
 ## 스택
@@ -174,26 +193,54 @@
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
+### DevOps
+![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![amazoneks](https://img.shields.io/badge/amazoneks-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
+![amazonec2](https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![amazonelasticache](https://img.shields.io/badge/amazonelasticache-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)
+![apachekafka](https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![amazonrds](https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![amazons3](https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![amazonroute53](https://img.shields.io/badge/amazonroute53-FF9900?style=for-the-badge&logo=amazonroute53&logoColor=white)
+![prometheus](https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![githubactions](https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 <br>
 
 ## 시스템 아키텍쳐
 <img width="500" alt="배포아키텍쳐" src="https://github.com/user-attachments/assets/2b101298-2cfb-48d2-9ad7-d49dc416834b">
 
+### 아키텍쳐 선택이유
+|  | **Kubernetes** | docker compose |
+|:------:|:------:|:------:|
+| 아키텍처 | 다중호스트 | 단일호스트|
+|확상성|Scale-Out|Scale-Up 
+|로드밸런싱|자동설정(세션 설정 가능)|직접설정
+|HA|장애 감지 및 자동 복구| 장애 발생 시 서비스 다운
+|설정편의성|내부 서비스 디스커버리 자동 설정 | 서비스의 IP 주소나 도메인을 직접 지정|
+
+<br><br>
 ## 프로젝트 시연
 <details>
   <summary> 메인페이지</summary>
-  <img src="https://github.com/user-attachments/assets/49702ad3-046e-4f39-bd78-30e26859df8e">
+  <img src="https://github.com/user-attachments/assets/0acddd87-a24c-4a11-98ac-344a3287763d">
 </details>
 
 <details>
   <summary> 병원 도입 신청 페이지</summary>
-  <img src="https://github.com/user-attachments/assets/fa627648-8017-4e9a-b0c3-8ce699212db2">
+  <img src="https://github.com/user-attachments/assets/e3e72813-eef7-4f2c-8c53-19a85a4e1cdb">
 </details>
 
 <details>
-  <summary> 페이지 로딩 모달</summary>
-  <img src="https://github.com/user-attachments/assets/eca68ad7-badd-4b2b-aa3f-b17885c17659">
+  <summary> 서비스 운영팀 대시보드</summary>
+
+  - 제휴병원 관리 (가입승인, 정기 구독료 관리)
+
+  - 일반회원 관리 (CS채팅 고객상담, 신고내역 관리)
+
+  - 데이터 시각화 (신규회원 유입추이, 권한 별 회원비율 등)
+  <img src="https://github.com/user-attachments/assets/1c60035b-3752-4952-9630-ea401e2179c1">
 </details>
 
 ### 일반 유저
@@ -245,9 +292,13 @@
 
 <details>
   <summary>공유 캘린더 조회</summary>
-  <img src="https://github.com/user-attachments/assets/b3efc9ce-ec1e-4e2f-9043-d33e1cbc327a">
+  <img src="https://github.com/user-attachments/assets/8b6dc540-da7f-4c41-9a43-2d708c4486f0">
 </details>
 
+<details>
+  <summary>자녀 별 공유 캘린더 : 다른자녀 선택</summary>
+  <img src="https://github.com/user-attachments/assets/1499daf1-6ee1-4411-9aae-16ca5b254991">
+</details>
 
 <details>
   <summary>공유 캘린더 일정 저장 </summary>
@@ -288,6 +339,17 @@
 
 ### 🏥 진료 예약
 
+### 소아과 병원리스트
+<details>
+  <summary> 사용자 위치기반 병원조회 로딩</summary>
+  <img src="https://github.com/user-attachments/assets/eca68ad7-badd-4b2b-aa3f-b17885c17659">
+</details>
+
+<details>
+  <summary> 사용자 위치기반 행정동 기준 병원리스트 조회</summary>
+  <img src="https://github.com/user-attachments/assets/ae096b16-225c-4db5-8373-430a9b0e14a3">
+</details>
+
 #### - 바로 대기 -
 
 <details>
@@ -302,7 +364,8 @@
 
 <details>
 <summary> 바로 대기 - 실시간 대기인원 확인</summary>
-<img src="https://github.com/user-attachments/assets/f663ee2e-019b-4cae-afe1-d781c457e29f">
+<img src="https://github.com/user-attachments/assets/685673bf-f3ca-400a-baa2-b22b5fa09288">
+
 </details>
 
 #### - 스케쥴 예약 -
@@ -318,6 +381,12 @@
 </details>
 
 #### - 비대면 진료 -
+
+<details>
+  <summary>비대면 진료 - 의사리스트 조회</summary>
+  오늘 비대면진료 가능한 의사리스트 조회 (진료 중, 별점 순, 리뷰 순 필터링 가능)
+  <img src="https://github.com/user-attachments/assets/84b59f72-9e3c-421f-99d4-fcfe44503dbb">
+</details>
 
 <details>
   <summary>비대면 진료 - 접수</summary>
@@ -382,10 +451,29 @@
   <img src="https://github.com/user-attachments/assets/04ac711c-e8fd-4037-ba88-0b6e3844fb5f">
 </details>
 
-### 💬 CS 채팅
+### 💬 CS 채팅상담
 <details>
-  <summary>CS 채팅</summary>
+  <summary>CS 채팅 : 일반 회원채팅</summary>
   <img src="https://github.com/user-attachments/assets/01dffb84-9210-4482-9aff-5e013df7086f">
+</details>
+
+<details>
+  <summary>CS 채팅 : 서비스운영팀 채팅</summary>
+  <img src="https://github.com/user-attachments/assets/d560a233-8fac-4ecf-b194-7e330b675337">
+</details>
+
+<details>
+  <summary>CS 채팅 : 서비스운영팀 상담내역 기록</summary>
+  <img src="https://github.com/user-attachments/assets/c3c4e89a-2123-46a3-b201-310bf00edfe6">
+</details>
+
+<details>
+  <summary>CS 채팅 : 서비스운영팀 회원 별 CS내역 조회</summary>
+  
+  - 회원 별로 CS 내역 리스트 조회
+
+  - CS 내역 클릭 시 해당 CS 내역이 기록된 채팅방으로 이동
+  <img src="https://github.com/user-attachments/assets/3edebc7c-ec2b-41bd-a582-8bdc545d3e8c">
 </details>
 
 ### 👥 커뮤니티
@@ -623,7 +711,18 @@
 </details>
 
 ### 👩‍⚕️🧑‍⚕️👩‍⚕️👨‍⚕️👩‍⚕
-### ️파닥 관리자
+### ️todak서비스 운영팀 
+
+<details>
+  <summary> 서비스 운영팀 대시보드</summary>
+
+  - 제휴병원 관리 (가입승인, 정기 구독료 관리)
+
+  - 일반회원 관리 (CS채팅 고객상담, 신고내역 관리)
+
+  - 데이터 시각화 (신규회원 유입추이, 권한 별 회원비율 등)
+  <img src="https://github.com/user-attachments/assets/1c60035b-3752-4952-9630-ea401e2179c1">
+</details>
 
 <details>
   <summary>관리자 로그인</summary>
